@@ -1,0 +1,6 @@
+,Simple_Random,Stratified,Systematic,Cluster,Bootstrap
+Logistic_Regression,87.07,91.38,89.66,86.96,95.69
+Decision_Tree,93.97,93.97,98.28,86.96,93.1
+Random_Forest,98.28,98.28,100.0,96.74,95.69
+SVM,59.48,68.97,73.28,53.26,67.24
+Gradient_Boosting,96.55,95.69,98.28,93.48,94.83
