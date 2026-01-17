@@ -94,7 +94,7 @@ Given a **highly imbalanced credit card dataset**, the goal is to:
 ## 📈 Visualizations
 
 <p align="center">
-  <img src="heatmap.png" width="600" alt="Accuracy Heatmap"/>
+  <img src="Heatmap.png" width="600" alt="Accuracy Heatmap"/>
 </p>
 
 <p align="center"><i>Heatmap showing accuracy of each model with different sampling techniques</i></p>
